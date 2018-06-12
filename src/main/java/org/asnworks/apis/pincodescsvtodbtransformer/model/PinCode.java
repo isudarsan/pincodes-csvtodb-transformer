@@ -3,8 +3,9 @@ package org.asnworks.apis.pincodescsvtodbtransformer.model;
 /**
  * @author sudambat
  */
-public class PinCode {
+public class PinCode implements java.io.Serializable {
 
+    private static final long serialVersionUID = -2721293955668613785L;
     private String villageName;
     private String officeName;
     private String code;
