@@ -18,4 +18,8 @@ Once we have a docker image, run and link with MySQL database container which we
 
 `docker run --name pincodes-csvtodb-transformer --link mysql-pincodes-containar -d pincodes-csvtodb-transformer`
 
+The docker image is available at : https://hub.docker.com/r/isudarsan/zarvis-apps/tags/
+
+Image can be pulled directly from Docker Hub using `docker pull isudarsan/zarvis-apps:pincodes-csvtodb-transformer-0.0.1-SNAPSHOT`
+
 @mentions (https://data.gov.in/) (https://docs.spring.io/spring-batch/trunk/reference/html/spring-batch-intro.html)
