@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/785720ef21e840c6b11542c63ac517a3)](https://www.codacy.com/app/sudarsan.a/pincodes-csvtodb-transformer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=isudarsan/pincodes-csvtodb-transformer&amp;utm_campaign=Badge_Grade)
+
 # pincodes-csvtodb-transformer
 
 Spring Batch is one of the Spring frameworks that provides functions for processing large volumes of data in batch jobs. That includes logging, transaction management, job restart, job skip, statistics, and many others.
