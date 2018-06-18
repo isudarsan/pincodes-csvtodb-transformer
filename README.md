@@ -1,4 +1,5 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/785720ef21e840c6b11542c63ac517a3)](https://www.codacy.com/app/sudarsan.a/pincodes-csvtodb-transformer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=isudarsan/pincodes-csvtodb-transformer&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.com/isudarsan/pincodes-csvtodb-transformer.svg?branch=master)](https://travis-ci.com/isudarsan/pincodes-csvtodb-transformer)
 
 # pincodes-csvtodb-transformer
 
